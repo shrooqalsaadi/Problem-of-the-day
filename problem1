@@ -1,0 +1,10 @@
+n1=int (input("enter n1: ")) 
+n1=int (input("enter n2: "))
+n1=int (input("enter n3: "))
+if(n2>n1 and n2> n3):
+print("Is the largest number:", n2) eliffif(n1 > n2 and n1>3) :
+print("Is the largest number :", n1)
+eliffif(n3 > n2 and n3> n1) :
+print("Is the largest number:" n3)
+else:
+print("The Number are equal")
